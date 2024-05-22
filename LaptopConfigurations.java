@@ -1,8 +1,5 @@
 public class LaptopConfigurations
 {
-
-    public LaptopConfigurations() {
-    }
    public String brand;
    public String graphicCard;
    public String processor;
