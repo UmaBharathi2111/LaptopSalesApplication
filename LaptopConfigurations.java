@@ -7,7 +7,7 @@ public class LaptopConfigurations
    public String romSize;
    public String screenSize;
    public String keyboardLight;
-   public double price=15999.99;
+   public double price;
 
    public double getPrice()
    {
